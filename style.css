@@ -1,0 +1,22 @@
+
+.cform{
+  background-color: red;
+  padding: 20px;
+}
+.col-sm-4{
+  margin: 10px;
+  max-width: unset !important;
+}
+.formdiv{
+  margin: auto;
+  width: 40%;
+  margin-top: 30px;
+}
+h1{
+  text-align: center;
+  margin-top: 150px;
+}
+
+body{
+  background-color: #77F1AD;
+}
